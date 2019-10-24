@@ -16,4 +16,5 @@ Bottom Navigation Fragment - Pada Aplikasi ini menerapkan Cara Menggunakan Botto
 ![image](https://user-images.githubusercontent.com/50509675/67478090-99a01800-f685-11e9-8a6b-a83dee67aac7.png)
 
 # Link Dokumentasi
-http://bit.ly/2PbqkIO
+Doc     : http://bit.ly/2PbqkIO
+Youtube : #
